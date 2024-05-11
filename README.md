@@ -1,3 +1,3 @@
 # C# DISCORD DUNGEONS HELPER BOT (.NET8)
 
-![image](https://raw.githubusercontent.com/DSharpPlus/DSharpPlus/master/logo/dsharp%2B_smaller.png){:width="200px"}
+<img src="https://raw.githubusercontent.com/DSharpPlus/DSharpPlus/master/logo/dsharp%2B_smaller.png" alt="image" width="200">
