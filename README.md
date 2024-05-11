@@ -13,3 +13,12 @@
 - **Template from the author of a series of tutorials that I recommend, if you want to make your own bot, use them** | [DSharp Bot Template by @samjesus8](https://github.com/samjesus8/CSharp-Discord-Bot-Template-NET8)
 - **DSharpPlus API Documentation** | [API Documentation](https://dsharpplus.github.io/DSharpPlus/api/index.html)
 - **Join the Official DSharpPlus Server** | [DSharpPlus Official Server](https://discord.com/invite/dsharpplus)
+
+# :hammer_and_wrench: Setup
+- The first step is to create a config.json file in the config folder and fill it in with your token and prefix
+  ```
+  {
+    "token": "ENTER-YOUR-TOKEN-HERE",
+    "prefix": "ENTER-YOUR-PREFIX-HERE"
+}
+```
