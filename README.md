@@ -24,3 +24,8 @@
 - You can find the token and information on how to create your application here -> [Discord Developer Portal](https://discord.com/developers/docs/intro)
 - After building the application in the debug version, copy your config.json and paste it into bin -> debug -> net8.0
   
+# 🤖 Current bot features
+- !help explaining the bot's functions (currently only in Polish)
+- Slashcommand /bug which creates a submited module where users can report bugs (in the Dungeons.cs file you have to set the appropriate channel ID to which reports should be sent)
+- !check [realm] [nickname] which checks a character's profile on Raider.IO (currently only available for Europe, if you want to use it on other regions edit the CheckCommandsModule file)
+- !zapisy [dungeon name without spaces] [keystone level] creates new dungeon enrollments, click on the button with the role you want (useful tool on mythic keystones) 
