@@ -21,6 +21,6 @@
     "token": "ENTER-YOUR-TOKEN-HERE",
     "prefix": "ENTER-YOUR-PREFIX-HERE"
   }
-```
-
-- [Discord Developer Portal](https://discord.com/developers/docs/intro)
+- You can find the token and information on how to create your application here -> [Discord Developer Portal](https://discord.com/developers/docs/intro)
+- After building the application in the debug version, copy your config.json and paste it into bin -> debug -> net8.0
+- 
