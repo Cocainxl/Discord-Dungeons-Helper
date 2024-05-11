@@ -20,5 +20,7 @@
   {
     "token": "ENTER-YOUR-TOKEN-HERE",
     "prefix": "ENTER-YOUR-PREFIX-HERE"
-}
+  }
 ```
+
+- [Discord Developer Portal](https://discord.com/developers/docs/intro)
